@@ -1,7 +1,8 @@
 p{
     color: #86652a;
+    /*background-image: url("../asset/test.jpg");*/
 }
 
-html{
+body{
     background-color: aliceblue;
 }
